@@ -131,7 +131,7 @@ On hold shelf letter.txt
 									<xsl:when test="contains(/notification_data/request/delivery_address, 'University of California Merced')">
 										<tr>
 											<td>
-											<p>You can schedule a time to pick-up your items here: https://library.ucmerced.edu/use/borrowing/curbside</p>
+											<p>You can pick up your item from the UC Merced Library. If you have any questions please e-mail library@ucmerced.edu or call 209-228-4444.</p>
 											</td>
 										</tr>
 									</xsl:when>
